@@ -1,0 +1,15 @@
+/* these styles help with debugging positional aspects
+   They ought to be turned off in the release */
+
+#video-list {
+background-color:#FFAAFF;
+}
+
+#yt-player {
+  background-color:#FFAAAA;
+}
+
+#controls {
+  background-color:#FFFFAA;
+  
+}
