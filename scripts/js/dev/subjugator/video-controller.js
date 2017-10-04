@@ -3,7 +3,7 @@
 /*
   This code generates the video player
   and the associated managment functions and player logic to be called by the UI.
-
+ 	https://developers.google.com/youtube/js_api_reference#Examples
 */
 
 "use strict";
@@ -26,7 +26,7 @@ if(chromeless) {
   console.log("Set as chromeless mode");
   youtube_embed_url = "//www.youtube.com/apiplayer?enablejsapi=1&version=3"; // chromeless
 }
-var divToReplace = "ytplayer";
+var divToReplace = "yt-player";
 var width = "1024";
 var height = "576";
 var minSwfVersion = "8";

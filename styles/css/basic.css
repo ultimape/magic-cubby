@@ -4,17 +4,12 @@ html, body {
   width:100%;
 }
 
-div#yt-player {
+#yt-player {
   width:816px;
   margin-left:240px;
   padding-left:3px;
   height:510px;
   
-}
-
-object#myytplayer  {
-  width:1024px;
-  margin-left:240px;
 }
 
 #video-title { 
