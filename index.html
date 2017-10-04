@@ -36,7 +36,7 @@
   </head>
   
 	<body>
-		<div>
+		
       
 			<div id="video-list"> 
 				<span id>Episode:</span>
@@ -44,7 +44,7 @@
       
 			<span id="video-title">No Title Found</span>
 			
-        <!-- the video player -->
+        <!-- this is where the video player widget ends up loading-->
 				<div id="yt-player" >
 					If you can see this it means the video player didn't load.
 				</div>
@@ -52,8 +52,14 @@
 			<div id="controls">				
 				<!-- video controls panel -->
 				<div id="info-line">
-					<input style="margin:0" title="When the video ends, should we play the next video automatically?" id="continuous_play" name="continuous_play" value="continuous_play" checked type="checkbox" />
-					<label title="When the video ends, should we play the next video automatically?" for="continuous_play">Play Continuously?</label>
+					<input style="margin:0"
+                 title="When the video ends, should we play the next video automatically?"
+                 id="continuous_play"
+                 name="continuous_play"
+                 value="continuous_play"
+                 checked type="checkbox" />
+					<label title="When the video ends, should we play the next video automatically?"
+                 for="continuous_play">Play Continuously?</label>
 					
           <div id="video-details">					
 						Video ID: <textarea id="videonumber" name="videonumber" rows="1" cols="6">VIDEONUMBER</textarea>
@@ -94,7 +100,7 @@
 					<a href="javascript:void(0);" onclick="randomVideo();">Random Episode</a>
 				</div>
 				
-			</div>
+			
 			
 		</div>
 		<!--<a href="https://youtube.com/watch?v=rfqiibq7Jrw&t=2m24s">its happening!</a>-->
