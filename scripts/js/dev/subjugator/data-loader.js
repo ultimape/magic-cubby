@@ -51,7 +51,7 @@ episodeList.episode.forEach( function(episode) {
     var timecodesForCurrentEpisode = timecodeList.episode.filter(function(timestampEpisode) {return timestampEpisode.id === episode.id});			
 
     if(!(timecodesForCurrentEpisode == undefined || timecodesForCurrentEpisode[0] == undefined)) {
-      console.log("TIMECODES!");
+      console.log("Episode "+episode.id+" has timecodes!");
       videoEpisodeEntry.innerHTML += '<div id="episode_'+episode.id+'_timecodes"></div>';
       var videoEpisodeTimecodes =document.getElementById('episode_'+episode.id+'_timecodes');
       
