@@ -66,6 +66,6 @@ My css styling will also be bear minimum for the proejct to work on my laptop & 
 ## Contact / Collaborate / Contribute
 While this is primarily a solo project for the time being as I try to excorcise my demons and fleshing out my ideas, I am open to collaborating. Feel free to contact me on [Mastodon](https://mastodon.social/@ultimape) [Twitter](twitter.com/ultimape) or via [keybase](https://keybase.io/ultimape).
 
-If you would like to learn more about my background, My out-of-date 'cv' is [available on stackoverflow](https://stackoverflow.com/users/story/42082?view=Cv). 
+If you would like to learn more about my background, My out-of-date 'cv' is [available on stackoverflow](https://stackoverflow.com/cv/nicholasperry. 
 
 You can also help me [avoid starving](https://www.patreon.com/ultimape) or buy me a [coffee](https://www.paypal.me/) if you feel the need to do so.
